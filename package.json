@@ -1,0 +1,22 @@
+{
+  "name": "ymljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurensortiz-babbel/ymljs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurensortiz-babbel/ymljs/issues"
+  },
+  "homepage": "https://github.com/laurensortiz-babbel/ymljs#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
